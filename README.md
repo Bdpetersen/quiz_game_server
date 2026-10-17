@@ -16,7 +16,7 @@ python client.py --name Alice
 
 Run another client with a different name to demonstrate multiple players. In the client, enter a topic number, then an answer number. Enter `L` to see that topic's leaderboard, `M` to return to the topic menu, or `Q` at the menu to quit. If your computer uses `py` or `python3`, use that command instead of `python`.
 
-To play on two computers on the same local network, start the server with `python server.py --host 0.0.0.0 --port 5050`. On the other computer, run `python client.py --host SERVER_IP --port 5050 --name Alice`, replacing `SERVER_IP` with the server computer's local IPv4 address. The server computer may need to allow port 5050 through its firewall on private networks.
+To play on two computers on the same local network, start the server with `python server.py --host 0.0.0.0 --port 5050`. On the other computer, run `python client.py --host SERVER_IP --port 5050 --name NAME`, replacing `SERVER_IP` with the server computer's local IPv4 address and NAME with your name. The server computer may need to allow port 5050 through its firewall on private networks.
 
 [Software Demo Video](https://www.youtube.com/watch?v=pZdrkzB-rPY)
 
