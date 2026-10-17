@@ -42,11 +42,6 @@ Scores and progress are stored in memory, so they reset when the server stops. P
 
 The game is written in **Python 3** and can be run from a terminal with no third-party packages. The server uses `socketserver` and `threading` to handle several clients, `random` to shuffle choices, and `json` and `pathlib` to load the question file. The client uses `socket` for the TCP connection and `json` for messages. Command-line options are handled with `argparse`.
 
-The project includes automated checks written with Python's `unittest` library. Run them from this folder with:
-
-```text
-python -m unittest discover -s tests -v
-```
 
 # Useful Websites
 
