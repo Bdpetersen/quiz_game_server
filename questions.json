@@ -1,0 +1,28 @@
+{
+  "disney": {
+    "name": "Disney",
+    "questions": [
+      {"id": "d1", "question": "What is the name of Mickey Mouse's dog?", "choices": ["Pluto", "Goofy", "Dug", "Bolt"], "answer": "Pluto"},
+      {"id": "d2", "question": "What kind of slipper does Cinderella leave behind?", "choices": ["Glass", "Silver", "Gold", "Ruby"], "answer": "Glass"},
+      {"id": "d3", "question": "Who is Elsa's sister in Frozen?", "choices": ["Anna", "Ariel", "Belle", "Tiana"], "answer": "Anna"},
+      {"id": "d4", "question": "Which Toy Story character is a cowboy?", "choices": ["Woody", "Buzz Lightyear", "Rex", "Slinky Dog"], "answer": "Woody"},
+      {"id": "d5", "question": "Who is Simba's father in The Lion King?", "choices": ["Mufasa", "Scar", "Timon", "Pumbaa"], "answer": "Mufasa"},
+      {"id": "d6", "question": "What kind of animal is Dumbo?", "choices": ["Elephant", "Mouse", "Bear", "Rabbit"], "answer": "Elephant"},
+      {"id": "d7", "question": "Which Disney princess has long magical hair in Tangled?", "choices": ["Rapunzel", "Jasmine", "Snow White", "Merida"], "answer": "Rapunzel"},
+      {"id": "d8", "question": "What kind of creature is Ariel in The Little Mermaid?", "choices": ["Mermaid", "Fairy", "Dragon", "Centaur"], "answer": "Mermaid"}
+    ]
+  },
+  "star_wars": {
+    "name": "Star Wars",
+    "questions": [
+      {"id": "s1", "question": "What is the name of Han Solo's ship?", "choices": ["Millennium Falcon", "X-wing", "Star Destroyer", "Ghost"], "answer": "Millennium Falcon"},
+      {"id": "s2", "question": "Who trains Luke Skywalker on Dagobah?", "choices": ["Yoda", "Obi-Wan Kenobi", "Mace Windu", "Qui-Gon Jinn"], "answer": "Yoda"},
+      {"id": "s3", "question": "What color is Darth Vader's lightsaber?", "choices": ["Red", "Blue", "Green", "Purple"], "answer": "Red"},
+      {"id": "s4", "question": "What is Princess Leia's surname?", "choices": ["Organa", "Kenobi", "Amidala", "Calrissian"], "answer": "Organa"},
+      {"id": "s5", "question": "Which gold-colored droid often travels with R2-D2?", "choices": ["C-3PO", "BB-8", "K-2SO", "IG-11"], "answer": "C-3PO"},
+      {"id": "s6", "question": "On which planet does Luke Skywalker grow up?", "choices": ["Tatooine", "Naboo", "Hoth", "Coruscant"], "answer": "Tatooine"},
+      {"id": "s7", "question": "What is the traditional weapon of a Jedi?", "choices": ["Lightsaber", "Blaster", "Bowcaster", "Vibroblade"], "answer": "Lightsaber"},
+      {"id": "s8", "question": "Who is Luke Skywalker's twin sister?", "choices": ["Leia Organa", "Padmé Amidala", "Rey", "Ahsoka Tano"], "answer": "Leia Organa"}
+    ]
+  }
+}
